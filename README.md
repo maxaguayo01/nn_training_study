@@ -131,7 +131,4 @@ Los modelos optimizados superaron a los baselines en métricas como **MAPE**, **
 
 ```
 
----
 
-¿Quieres que te lo adapte al formato que suelen pedir en **Databricks** (con comandos `dbutils.fs`, `display`, etc.) o que quede así tipo **entrega general universitaria** (Markdown plano como arriba)?
-```
