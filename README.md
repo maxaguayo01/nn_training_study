@@ -1,7 +1,4 @@
-Perfecto 🔥
-Aquí tienes un **README.md** estilo **reporte técnico completo**, ya formateado en Markdown, listo para copiar y pegar directamente:
 
----
 
 ````markdown
 # 🧠 Proyecto de Experimentos de Modelos Baseline y Ejes (Axes)
